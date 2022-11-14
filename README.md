@@ -25,7 +25,7 @@ Django core headers [adamchainz](https://github.com/adamchainz/django-cors-heade
 
 ## Install module React
     # Create react app
-    npm create-react-app my-app
+    npm create-react-app frontend
 
 ## Using React router
 visit [react-router-dom](https://v5.reactrouter.com/web/guides/quick-start)
